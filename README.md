@@ -1,5 +1,6 @@
 # clone this repo 
 cd to this repo
-``` npm install --save-dev @angular/cli ```
-# run server
+# Reinstall
+ * Install ```@angular/cli``` globally: ```npm install -g @angular/cli```
+ # run server
 ``` ng serve -o ```
