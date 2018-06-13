@@ -1,6 +1,6 @@
 # clone this repo 
 cd to this repo
-# Install ```@angular/cli``` globally
+# Install angular globally
  * Install ```@angular/cli``` globally: ```npm install -g @angular/cli```
 
 # install in your project
