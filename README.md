@@ -1,5 +1,6 @@
 # clone this repo 
-cd to this repo
+```https://github.com/krishnanath/Angular6Project.git```
+ * cd to Anguar6Project
 # Install angular globally
  * Install ```@angular/cli``` globally: ```npm install -g @angular/cli```
 
