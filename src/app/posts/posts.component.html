@@ -1,0 +1,8 @@
+<h1 style="color:#ffff">Posts </h1>
+
+<ul [@list]="posts$">
+  <li *ngFor="let post of posts$">
+    <a routerLink=""> {{ post.title }}</a>
+  <p> {{ post.body }}</p>
+  </li>
+</ul>
